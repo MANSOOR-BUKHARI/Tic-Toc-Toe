@@ -13,11 +13,11 @@ A classic Tic Tac Toe game implemented using Python's Tkinter library. This game
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/tic-tac-toe.git
+   git clone https://github.com/cyberfantics/Tic-Toc-Toe.git
    ```
 2. Navigate the project directory:
   ```bash
-    cd tic-tac-toe
+    cd Tic-Toc-Toe
   ```
 3. Run the Game:
 ```bash
